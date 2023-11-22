@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonasTisell
-- 👀 I’m interested in Panfu
+- 👀 I’m interested in web development and Panfu
 - 📫 How to reach me: @JonasTisell on Twitter / mail(a)tisell.xyz
 
 <!---
