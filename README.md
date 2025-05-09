@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonasTisell
-- 👀 I’m interested in web development and video games, especially my favorite childhood game Panfu
+- 👀 I’m interested in web development and game server emulation, and I love FOSS projects.
 - 📫 How to reach me: @JonasTisell on Twitter / jonas(a)tisell.xyz
 
 <!---
